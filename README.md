@@ -2,7 +2,7 @@
 O curso pode ser acessado na plataforma da [Digital Innovation One](https://digitalinnovation.one/).
 
 ## Sobre o Autor
-<img align="left" width="190" height="190" margin-right="150px" src="https://drive.google.com/file/d/1IlN38tYmC9yfjMUuCHO7p_hKG9e5Vgyn/view?usp=sharing"> Oi, meu nome é Pedro Savio tenho 22 anos e atualmente faço engenharia mecãnica(UFCG) e acabei descobrindo um novo mundo na programação e decidi me aprofundar mais nele.
+<img align="left" width="190" height="190" margin-right="150px" src="https://lh3.googleusercontent.com/pw/AM-JKLXhmwZXlDQxwQTG3f0HIUpyh4Yg5oyRCR9GZ09GVuaEGe2umH6R6TAYJeJgWCVEKROa7pQgbFVBQEaOwJ3VLGoNpDcTJ1p0yTvwLK0CJf7q9xh7Xnf1sS-vG7temrijQpiRitZC-c9e7THtDNVI5FQPkA=w169-h154-no?authuser=0"> Oi, meu nome é Pedro Savio tenho 22 anos e atualmente faço engenharia mecânica(UFCG) e acabei descobrindo um novo mundo na programação e decidi me aprofundar mais nele.
 
 ## <br />Descrição do Lab.
 O objetivo do projeto é criar um App de `To do list` do zero mostrando o processo de desenvolvimento usando Kotlin, uma das linguagens de programação de maior ascensão dos últimos anos. Além disto, desafiar a evolução do App e entregar uma solução mais robusta pensando sempre na melhor experiência do usuário.
